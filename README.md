@@ -1,30 +1,139 @@
-![logo](https://github.com/UTkARsh-RaJ01/UTkARsh-RaJ01/blob/main/image.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee1515,50:222224,100:3b4cca&height=160&section=header&text=UTKARSH%20RAJ&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Pok%C3%A9mon%20Trainer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=62&descSize=16" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
-<h3 align="center">A passionate machine learning enthusiast and full-stack web developer from India, with expertise in deep learning, natural language processing (NLP),and OpenCV.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh-raj01&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh-raj01" /> </p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FFCB05&center=true&vCenter=true&width=700&lines=A+wild+DEVELOPER+appeared!;Training+neural+nets+like+starter+Pok%C3%A9mon...;Teaching+machines+to+see%2C+read+%26+reason;Gotta+ship+'em+all!" alt="typing" />
 
+<br/>
 
-- 🌱 I’m currently learning **ROS🤖**
+<!-- ⚔️ Trainer Battle Scene -->
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://play.pokemonshowdown.com/sprites/trainers/ethan.png" width="90" />
+      <img src="https://play.pokemonshowdown.com/sprites/ani-back/greninja.gif" width="140" /><br/>
+      <b>🎒 Trainer UTKARSH</b><br/>
+      <sub>GRENINJA · Lv. 100</sub>
+    </td>
+    <td align="center" width="10%"><h1>VS</h1></td>
+    <td align="center" width="45%">
+      <img src="https://play.pokemonshowdown.com/sprites/ani/mewtwo.gif" width="130" />
+      <img src="https://play.pokemonshowdown.com/sprites/trainers/cynthia.png" width="90" /><br/>
+      <b>👑 Champion PRODUCTION BUGS</b><br/>
+      <sub>MEWTWO · Lv. ??</sub>
+    </td>
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate on **good projects**
+<code>Trainer Utkarsh sent out GRENINJA!</code><br/>
+<code>GRENINJA used ⚡ TRANSFORMER SHURIKEN! &nbsp;It's super effective!</code><br/>
+<code>The wild BUG fainted. Model deployed to production! 🚀</code>
 
-- 👨‍💻 All of my projects are available at [https://github.com/UTkARsh-RaJ01](https://github.com/UTkARsh-RaJ01)
+<br/><br/>
 
-- 💬 Ask me about **Machine Learning,Deep Learning,OpenCV,NLP**
+<img src="https://komarev.com/ghpvc/?username=utkarsh-raj01&label=Trainers%20Encountered&color=ffcb05&style=for-the-badge" alt="profile views" />
 
-- ⚡ Fun fact **I am a tech nerd💻**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/-utkarsh-raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-utkarsh-raj/" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-raj01&show_icons=true&locale=en&layout=compact" alt="utkarsh-raj01" /></p>
+<h2>📝 Trainer Card</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-raj01&" alt="utkarsh-raj01" /></p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <a href="https://pokemondb.net/pokedex/metagross"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/metagross.gif" width="120" /></a><br/>
+      <sub><b>Type:</b> 🧠 PSYCHIC / ⚙️ STEEL</sub>
+    </td>
+    <td>
+
+> **Utkarsh Raj** · *Region:* India 🇮🇳 · *Class:* AI Trainer & Full-Stack Builder
+>
+> I build things that **see**, **read** and **think** — from computer-vision pipelines that make sense of pixels, to NLP models that understand language, to full-stack apps that put that intelligence in people's hands.
+>
+> 🧠 **Signature moves:** Deep Learning · NLP · Computer Vision (OpenCV)<br/>
+> 🌐 **Support moves:** React · Node · Django · Flask · Docker<br/>
+> 🎯 **Ability:** *Ships ideas from notebook ➜ production*
+
+  </td>
+  </tr>
+</table>
+
+<hr>
+
+<div align="center">
+
+<h2>🎒 Current Party</h2>
+
+| <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/espeon.gif" width="70"/> | <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/lucario.gif" width="70"/> | <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" width="70"/> | <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/garchomp.gif" width="70"/> |
+|:---:|:---:|:---:|:---:|
+| **DEEP LEARNING** | **COMPUTER VISION** | **NLP** | **FULL-STACK** |
+| `HP ██████████` | `HP █████████░` | `HP █████████░` | `HP ████████░░` |
+| PyTorch · TF | OpenCV | Transformers · NLTK | React · Node · Django |
+
+</div>
+
+<h2 align="center">🗺️ Quest Log</h2>
+
+```diff
++ [ACTIVE]   Teaming up with trainers on ambitious, impactful projects
++ [ACTIVE]   Taking challenges on ML · Deep Learning · CV · NLP
++ [ACTIVE]   Filling the PC Box → github.com/UTkARsh-RaJ01
+! [PASSIVE]  Certified tech nerd 💻 — debugging is my favourite mini-game
+```
+
+<hr>
+
+<div align="center">
+
+<h2>📊 Battle Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-raj01&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-raj01&theme=tokyonight&hide_border=true" alt="streak stats" height="170" />
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<h2>💫 Pokédex of Abilities</h2>
+
+| Type | Moves |
+|:---:|:---:|
+| 🖥️ **Languages** | <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css" /> |
+| 🧠 **ML / AI** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /> |
+| 🏗️ **Web** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" /> |
+| 🛠️ **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,postman,figma,arduino" /> |
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<h2>🌐 Connect via Entralink</h2>
+
+<a href="https://www.linkedin.com/in/-utkarsh-raj/"><img src="https://img.shields.io/badge/LinkedIn-Trade%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/UTkARsh-RaJ01"><img src="https://img.shields.io/badge/GitHub-My%20PC%20Box-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<a href="https://pokemondb.net/pokedex/pikachu"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/charmander"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/squirtle"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/bulbasaur"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/eevee"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/snorlax"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif" width="55" /></a>
+<a href="https://pokemondb.net/pokedex/dragonite"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif" width="55" /></a>
+
+<p><i>Thanks for visiting, Trainer! Your Pokémon are fully healed. 💖</i></p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4cca,50:222224,100:ee1515&height=100&section=footer" width="100%" />
